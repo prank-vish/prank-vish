@@ -2,7 +2,6 @@
 
 🎓 B.Tech Computer Science & Engineering  
 🏫 National Institute of Technology, Surat  
-📊 CGPA: 9.12 (Till 5th Semester)  
 📅 2023 – 2027  
 
 📧 prankvish@gmail.com  
